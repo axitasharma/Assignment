@@ -7,5 +7,5 @@
 
 count = 1
 while count <= 2 :
- print("hello ", i)
+ print("hello" , i)
  count += 1

@@ -1,4 +1,7 @@
-#import keyword
+int(input())
+#import keywor
+
+# d
 # keyword module is used to see all keywords in py version
 #print( keyword.kwlist)
 #print (len(keyword.kwlist))
